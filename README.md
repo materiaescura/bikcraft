@@ -15,13 +15,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/110240761/236681662-aa3c849e-4a99-468c-a748-94db068769cd.png" width="60%"/>
 </div>
----
+
 
 ## Tecnologias
 
 - HTML/CSS
 - Javascript
----
+
 ## Dependências: 
   - [Ramda](https://ramdajs.com/) <3 <br />
   Observação: No projeto original do curso não foi utilizado o ramda. Eu adicionei essa depêndencia para construir um javascript mais declarativo.
